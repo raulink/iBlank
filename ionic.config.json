@@ -1,0 +1,7 @@
+{
+  "name": "iBlank",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
